@@ -1,0 +1,16 @@
+.app {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: var(--nav-size);
+  background-color: var(--bg);
+  padding: 0 1rem;
+}
+
+.logo {
+  color: white;
+}
+body {
+  position: relative;
+  background: black;
+}
